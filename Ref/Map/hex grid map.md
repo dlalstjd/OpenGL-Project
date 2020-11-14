@@ -1,13 +1,13 @@
 ### Ref. for Hex Grid Map  
   
-# Gituhb 
+## Gituhb 
 - [Hex Map] (https://github.com/ralphtrickey/Hex-Map)  
   
 - [Hex Map of Europe] (https://github.com/nikolakn/Stepa)
   
   
 
-# .etc  
+## .etc  
 - [stanford blog] (http://www-cs-students.stanford.edu/~amitp/gameprog.html#hex)  
   
 - [other information] (https://www.gamedev.net/forums/topic/195489-hex-grids/)  
