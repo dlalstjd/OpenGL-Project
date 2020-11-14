@@ -14,4 +14,4 @@
   
 - [Space ship game( good ref. to implement "shooting")] (https://github.com/kaushikj/OpenGL) 
   
-- [Audio] (https://github.com/jarcode-foss/glava (I think this could be useful when inserting some sound effect)) (https://github.com/jarcode-foss/glava)  
+- [Audio (I think this could be useful when inserting some sound effect) ] (https://github.com/jarcode-foss/glava)  
