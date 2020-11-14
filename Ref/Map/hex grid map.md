@@ -1,13 +1,12 @@
 ### Ref. for Hex Grid Map  
-
-'''  
+  
 # Gituhb 
 - [Hex Map] (https://github.com/ralphtrickey/Hex-Map)  
   
 - [Hex Map of Europe] (https://github.com/nikolakn/Stepa)
   
-'''  
-'''
+  
+
 # .etc  
 - [stanford blog] (http://www-cs-students.stanford.edu/~amitp/gameprog.html#hex)  
   
@@ -17,6 +16,4 @@
   
 - [related Q&A 2( about the best way to draw hexes )] (https://community.khronos.org/t/best-way-to-draw-hexes-and-texture-them/31274)  
   
-'''
   
-- 
