@@ -1,4 +1,4 @@
-### Ref. for Hex Grid Map  
+# Ref. for Hex Grid Map  
   
 ## Gituhb 
 - [Hex Map] (https://github.com/ralphtrickey/Hex-Map)  
