@@ -1,6 +1,6 @@
-### Ref. for open source or library  
+# Ref. for open source or library  
 
-# 3D implementation  
+## 3D implementation  
 - [3D modeling] (https://www.cgtrader.com/3d-models)  
   
 - [3D shaders] (https://awesomeopensource.com/project/lettier/3d-game-shaders-for-beginners)  
@@ -9,7 +9,7 @@
   
 - [Openframeworks Library] (https://awesomeopensource.com/project/openframeworks/openFrameworks)
   
-# etc.
+## etc.
 - [3D Chess game( good ref. for generating 3d npc )] (https://github.com/zigaroula/Chess3D)  
   
 - [Space ship game( good ref. to implement "shooting")] (https://github.com/kaushikj/OpenGL) 
